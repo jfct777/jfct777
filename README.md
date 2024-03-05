@@ -27,7 +27,7 @@ I am presently engaged in crafting technical recommendations for the architectur
 
 ## 📫 How to Reach Me
 If you're interested in collaborating or would like to learn more about my work, feel free to reach out through: 
-- [LinkedIn](www.linkedin.com/in/jose-franklin-calderón-tantaleán-80537b59)
+- [LinkedIn](https://www.linkedin.com/in/jose-franklin-calderón-tantaleán-80537b59)
 
 
 ---
