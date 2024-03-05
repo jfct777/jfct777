@@ -26,7 +26,9 @@ Throughout my career, I've had the privilege to contribute to a broad array of p
 I am presently engaged in crafting technical recommendations for the architecture of a national genomic and health data platform and repository. This project aims to establish a robust infrastructure to support precision medicine in Brazil.
 
 ## 📫 How to Reach Me
-If you're interested in collaborating or would like to learn more about my work, feel free to reach out through [LinkedIn](www.linkedin.com/in/jose-franklin-calderón-tantaleán-80537b59).
+If you're interested in collaborating or would like to learn more about my work, feel free to reach out through: 
+- [LinkedIn](www.linkedin.com/in/jose-franklin-calderón-tantaleán-80537b59)
+
 
 ---
 
